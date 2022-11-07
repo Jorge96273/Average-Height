@@ -6,6 +6,7 @@ for n in range(0, len(student_heights)):
 
 #156 178 165 171 187
 #Write your code below this row 👇
+print("Hello World!")
 total_height = 0
 for height in student_heights:
     total_height = total_height + height
